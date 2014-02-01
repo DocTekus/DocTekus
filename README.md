@@ -1,4 +1,4 @@
 DocTekus
 ========
 
-Dépôt central pour les projets afiliés DocTekus
+Dépôt central pour les projets affiliés DocTekus
